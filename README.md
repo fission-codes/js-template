@@ -1,6 +1,13 @@
-# Monorepo template
+<div align="center">
+  <img src="./assets/logo.png" alt="fission Logo" width="100"></img>
 
-Monorepo template for Javascript projects.
+  <h1 align="center">Fission JS Template</h1>
+
+[![Built by FISSION](https://img.shields.io/badge/built_by-⌘_Fission-purple.svg)](https://fission.codes)
+[![Discord](https://img.shields.io/discord/478735028319158273?logo=discord&color=mediumslateblue)](https://discord.gg/zAQBDEq)
+[![Discourse users](<https://img.shields.io/discourse/users?server=https%3A%2F%2Ftalk.fission.codes&logo=discourse&label=talk&color=rgb(14%2C%20118%2C%20178)>)](https://talk.fission.codes)
+
+</div>
 
 ## Usage (remove this section)
 
@@ -40,21 +47,21 @@ Override the `tsconfig.json` in the package with the following:
 
 ## Packages
 
-- [package1](https://github.com/hugomrdias/hd-template/tree/master/packages/package1) - description
-- [package2](https://github.com/hugomrdias/hd-template/tree/master/packages/package2) - description
+- [package1](https://github.com/fission-codes/js-template/tree/master/packages/package1) - description
+- [package2](https://github.com/fission-codes/js-template/tree/master/packages/package2) - description
 
 ## Examples
 
-- [`demo`](https://github.com/hugomrdias/hd-template/tree/master/examples/demo) - description
+- [`demo`](https://github.com/fission-codes/js-template/tree/master/examples/demo) - description
 
 ### Checkout examples
 
-You can use [Codesandbox](https://githubbox.com/hugomrdias/hd-template/tree/master/examples/demo) and start hacking right away.
+You can use [Codesandbox](https://githubbox.com/fission-codes/js-template/tree/master/examples/demo) and start hacking right away.
 
 To clone it locally:
 
 ```bash
-npx tiged hugomrdias/hd-template/examples/demo demo
+npx tiged fission-codes/js-template/examples/demo demo
 cd demo
 pnpm install
 pnpm dev
@@ -68,6 +75,24 @@ Read contributing guidelines [here](.github/CONTRIBUTING.md).
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/hd-template/examples)
 
+
 ## License
 
-[MIT](./license) © [Hugo Dias](http://hugodias.me)
+This project is licensed under either of
+
+- Apache License, Version 2.0, ([LICENSE-APACHE](./LICENSE-APACHE) or
+  [http://www.apache.org/licenses/LICENSE-2.0][apache])
+- MIT license ([LICENSE-MIT](./LICENSE-MIT) or
+  [http://opensource.org/licenses/MIT][mit])
+
+at your option.
+
+### Contribution
+
+Unless you explicitly state otherwise, any contribution intentionally
+submitted for inclusion in the work by you, as defined in the Apache-2.0
+license, shall be dual licensed as above, without any additional terms or
+conditions.
+
+[apache]: https://www.apache.org/licenses/LICENSE-2.0
+[mit]: http://opensource.org/licenses/MIT

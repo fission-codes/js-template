@@ -122,11 +122,11 @@ The most important prefixes you should have in mind are:
 - `feat!:`, or `fix!:`, `refactor!:`, etc., which represent a breaking change
   (indicated by the `!`) and will result in a SemVer major.
 
-[channel]: https://github.com/hugomrdias/hd-template/discussions
-[codespaces]: https://codespaces.new/hugomrdias/hd-template
-[discussions]: https://github.com/hugomrdias/hd-template/discussions
-[issue]: https://github.com/hugomrdias/hd-template/issues
-[docs]: https://hugomrdias.github.io/hd-template/
+[channel]: https://discord.gg/zAQBDEq
+[codespaces]: https://codespaces.new/fission-codes/stack
+[discussions]: https://github.com/fission-codes/stack/discussions
+[issue]: https://github.com/fission-codes/stack/issues
+[docs]: https://fission-codes.github.io/stack/
 [sscce]: http://www.sscce.org/
 [signing]: https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits
 [telling-git]: https://docs.github.com/en/authentication/managing-commit-signature-verification/telling-git-about-your-signing-key
