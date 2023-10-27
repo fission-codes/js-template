@@ -56,7 +56,7 @@ Override the `tsconfig.json` in the package with the following:
 
 ### Checkout examples
 
-You can use [Codesandbox](https://githubbox.com/fission-codes/js-template/tree/master/examples/demo) and start hacking right away.
+You can use Codesandbox <https://githubbox.com/fission-codes/js-template/tree/master/examples/demo> and start hacking right away.
 
 To clone it locally:
 
@@ -74,7 +74,6 @@ You can try any of the examples by replacing `demo` with the name of the example
 Read contributing guidelines [here](.github/CONTRIBUTING.md).
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/hd-template/examples)
-
 
 ## License
 
