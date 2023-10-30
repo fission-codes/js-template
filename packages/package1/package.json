@@ -4,9 +4,10 @@
   "version": "0.0.1",
   "description": "Example package description.",
   "author": "Hugo Dias <hugomrdias@gmail.com> (hugodias.me)",
-  "license": "MIT",
+  "license": "(Apache-2.0 AND MIT)",
+  "homepage": "https://github.com/fission-codes/js-template/tree/main/packages/package1",
   "repository": {
-    "url": "hugomrdias/hd-template",
+    "url": "fission-codes/js-template",
     "directory": "packages/package1"
   },
   "exports": {
