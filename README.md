@@ -11,6 +11,8 @@
 
 ## Usage (remove this section)
 
+This section describes how to use this template. Remove this section from your README after you have read it.
+
 ### Features
 
 - Github workflows, templates, Code of Conduct, Contributing guidelines, Security Policy, Dependabot config, Codeowners and license.
@@ -29,6 +31,7 @@
 - Select _Github Actions_ for Github pages publishing. [Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow)
 - You may need to change workflow permissions to read/write to be able to publish pages with github actions. Go to Settings > Actions > General > Workflow permissions.
 - You should enable <https://socket.dev/> on the repo
+- Check the markdown files inside `.github` folder and update them with your information. Codeowners and issue templates assignees should be updated with your team members.
 
 #### Typescript
 
