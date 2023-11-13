@@ -73,8 +73,8 @@ importers:
         specifier: ^10.2.0
         version: 10.2.0
       playwright-test:
-        specifier: ^12.4.3
-        version: 12.4.3
+        specifier: ^12.6.0
+        version: 12.6.0
 
 packages:
 
@@ -1668,7 +1668,7 @@ packages:
     dev: true
 
   /concat-map@0.0.1:
-    resolution: {integrity: sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=}
+    resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
     dev: true
 
   /convert-source-map@2.0.0:
@@ -4008,8 +4008,8 @@ packages:
     hasBin: true
     dev: true
 
-  /playwright-test@12.4.3:
-    resolution: {integrity: sha512-51nFyab0RSOM23dTq34C61hAx0e13Scab6U5VJW7RjFhpEkQXBeq46R7WNeY0mHaYEUaLYdSch51ceibtQ4Tzg==}
+  /playwright-test@12.6.0:
+    resolution: {integrity: sha512-8cZOErrbSzyq5fnf7LjudgXNzWz+qJaJ9fI/iodq3I3ysRlebL3xYcevxPhGSVN2/YJDgIe6EMZirNwTfynNGQ==}
     engines: {node: '>=16.0.0'}
     hasBin: true
     dependencies:
